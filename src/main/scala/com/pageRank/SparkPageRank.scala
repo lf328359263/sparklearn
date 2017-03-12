@@ -1,4 +1,4 @@
-package pageRank
+package com.pageRank
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
